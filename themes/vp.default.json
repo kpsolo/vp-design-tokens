@@ -3867,6 +3867,48 @@
     }
   },
   "betting": {
+    "db": {
+      "primaryColor": {
+        "value": "#150f3d",
+        "type": "color"
+      },
+      "secondaryColor": {
+        "value": "#1f1a4d",
+        "type": "color"
+      },
+      "successColor": {
+        "value": "{base.success}",
+        "type": "color"
+      },
+      "errorColor": {
+        "value": "{base.error}",
+        "type": "color"
+      },
+      "primaryAccent": {
+        "value": "#BF0302",
+        "type": "color"
+      },
+      "primaryText": {
+        "value": "#FFFFFF",
+        "type": "color"
+      },
+      "primaryAccentText": {
+        "value": "#FFFFFF",
+        "type": "color"
+      },
+      "secondaryText": {
+        "value": "#B6B7BC",
+        "type": "color"
+      },
+      "infoColor": {
+        "value": "#abacb0",
+        "type": "color"
+      },
+      "warningColor": {
+        "value": "{base.warning}",
+        "type": "color"
+      }
+    },
     "surface": {
       "value": "#150f3d",
       "type": "color"
