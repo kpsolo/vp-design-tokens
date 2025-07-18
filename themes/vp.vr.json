@@ -2098,7 +2098,7 @@
       "description": "use for circle elements on primary bg"
     },
     "radial": {
-      "value": "radial-gradient(50% 50% at 50% 50%, #4576D6 0%, rgba(69,118,214,0) 100%)",
+      "value": "radial-gradient(50% 50% at 50% 50%, #4553D6 0%, rgba(69,118,214,0) 100%)",
       "type": "color"
     },
     "radial-shop": {
