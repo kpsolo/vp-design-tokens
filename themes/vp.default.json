@@ -2346,7 +2346,7 @@
         "description": "border color for buttons default"
       },
       "button-hover": {
-        "value": "#FFF",
+        "value": "rgba(255,255,255,0.5)",
         "type": "color",
         "description": "border color for buttons hover"
       },
