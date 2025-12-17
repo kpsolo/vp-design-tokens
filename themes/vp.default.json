@@ -1946,6 +1946,20 @@
         "type": "color",
         "description": "use for bg in cashbox transaction"
       },
+      "warning": {
+        "value": "{base.warning}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.16",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "for bg in warning items"
+      },
       "ghost-1": {
         "value": "rgba(0, 0, 0, 0.20)",
         "type": "color",

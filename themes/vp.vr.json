@@ -2018,6 +2018,20 @@
         "value": "linear-gradient(180deg, rgba(22, 27, 38, 0.00) 0%, rgba(22, 27, 38, 0.95) 63.16%, #161B26 100%)",
         "type": "color",
         "description": "use for gradient over picture on right tournament panel"
+      },
+      "warning": {
+        "value": "{base.warning}",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.16",
+              "space": "srgb"
+            }
+          }
+        },
+        "description": "for bg in warning items"
       }
     },
     "overlay-gradient": {
