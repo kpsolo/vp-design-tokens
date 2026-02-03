@@ -2849,7 +2849,7 @@
       }
     },
     "slider": {
-      "value": "rgba(255,255,255,0.4)",
+      "value": "rgba(255,255,255,0.2)",
       "type": "color"
     },
     "slider-curret": {
