@@ -3473,7 +3473,7 @@
     },
     "referral": {
       "number": {
-        "value": "transparent",
+        "value": "{base.accent-primary}",
         "type": "color",
         "description": "use for numbers gradient in conditions"
       }
